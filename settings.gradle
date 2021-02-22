@@ -1,0 +1,3 @@
+rootProject.name = "My Recipies"
+include ':app'
+include ':core'
