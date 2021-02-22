@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">My Recipies</string>
+    <string name="app_name">My Recipes</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="recipe_title">Recipe Title</string>
